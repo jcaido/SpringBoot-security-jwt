@@ -1,4 +1,4 @@
-package com.springbootsecurityjwt.payload;
+package com.springbootsecurityjwt.security.payload;
 
 public class MessageResponse {
 
